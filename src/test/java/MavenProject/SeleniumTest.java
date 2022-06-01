@@ -14,6 +14,8 @@ public void BrowserAutomation()
 public void elementsUi()
 {
 	System.out.println("This is a elementsUi");
+	System.out.println("This is a elementsUiss");
+	System.out.println("This is a elementsUizzz");
 }
 
 }
