@@ -17,4 +17,10 @@ public void deleteTwitter()
 	System.out.println("This is a deleteTwitter");
 }
 
+@Test
+public void deleteTwitters()
+{
+	System.out.println("This is a deleteTwitters");
+}
+
 }
